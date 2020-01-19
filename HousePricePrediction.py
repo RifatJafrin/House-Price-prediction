@@ -6,7 +6,7 @@ Created on Tue Sep 17 17:29:37 2019
 @author: Rifat
 
 Problem Statement:
-    House Prices: Advanced Regression Techniques; Predict sales prices and practice feature engineering, RFs, and gradient boosting
+    House Prices: Predict the final price of each home
 
 Data Source:
     https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
